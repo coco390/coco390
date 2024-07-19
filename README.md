@@ -1,15 +1,25 @@
-<html>
-  <body>
-  <div align="center">
-    <h1>💖Hi, I’m Constance!💖</h1>
-  </div>
-  <div>
-    <p>I'm returning to the tech industry with a focused interest in front-end development. This tech major, previously a teacher, is actively upskilling through Coursera's Meta Front End Development course. 
-      This comprehensive program complements my previous existing skills and empowers me to tackle modern web development with confidence. Leveraging my pedagogical background, I will intertwine instructional strategies     
-      with coding techniques, aiming to create engaging and user-centric web experiences.
-      This transition marks the beginning of an exciting journey blending education, technology, and innovation in front-end development.</p>
-  </div>
+# Constance Schmidt
 
+Check out my [Portfolio](https://coco390.github.io/portfolio/) for more information.
 
-  </body>
-</html>
+## Front-End Development Skills
+
+- **HTML/CSS**: Proficient in crafting well-structured, semantic HTML and styling responsive layouts with CSS. Skilled in using Flexbox, Grid, and custom CSS properties for creating modern, adaptable designs.
+
+- **JavaScript**: Experienced in using JavaScript to enhance web interactivity and functionality. Knowledgeable in ES6+ features, DOM manipulation, and integrating third-party libraries.
+
+- **Frameworks and Libraries**: Familiar with front-end frameworks and libraries such as React, Bootstrap. Capable of building dynamic user interfaces and managing state efficiently.
+
+- **Responsive Design**: Expertise in designing mobile-first, responsive web pages that perform well across various devices and screen sizes. Proficient with media queries and adaptive design techniques.
+
+- **Version Control**: Proficient in using Git for version control, including branching, merging, and collaborating on projects using platforms like GitHub.
+
+- **Accessibility**: Committed to creating accessible web applications by following WCAG guidelines and implementing semantic HTML and ARIA roles to ensure inclusivity.
+
+- **Performance Optimization**: Experienced in optimizing web performance through techniques like lazy loading, code splitting, and minimizing HTTP requests to ensure fast load times.
+
+- **Cross-Browser Compatibility**: Ensures consistent functionality and appearance of web applications across different browsers and devices by testing and applying cross-browser techniques.
+
+- **Development Tools**: Familiar with modern development tools and workflows, including build tools (Webpack, Gulp), task runners, and debugging tools.
+
+- **UI/UX Principles**: Knowledgeable in user interface (UI) and user experience (UX) principles, with a focus on creating intuitive, user-friendly designs that enhance overall user satisfaction.
