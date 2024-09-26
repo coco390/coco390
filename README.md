@@ -1,7 +1,5 @@
 # Constance Schmidt
 
-Check out my [Portfolio](https://coco390.github.io/portfolio/) for more information.
-
 ## Front-End Development Skills
 
 - **HTML/CSS**: Proficient in crafting well-structured, semantic HTML and styling responsive layouts with CSS. Skilled in using Flexbox, Grid, and custom CSS properties for creating modern, adaptable designs.
